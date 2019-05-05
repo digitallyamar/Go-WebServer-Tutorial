@@ -15,3 +15,12 @@ cd server
 go run main.go  
 ```
 Go to your favorite browser and enter the url: http://localhost:9000/capital/India
+
+### Chapter 03 - HTTP ErrorCodes WebServer
+```
+cd server  
+go run main.go  
+```
+Go to your favorite browser and enter the url: http://localhost:9000/capital/India
+Go to your favorite browser and enter the url: http://localhost:9000/capital/USA
+Go to your favorite browser and enter the url: http://localhost:9000/capitals/India
