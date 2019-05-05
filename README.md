@@ -45,3 +45,15 @@ Go to your favorite browser and enter the url: http://localhost:9000/capital/USA
 Go to your favorite browser and enter the url: http://localhost:9000/capitals/India  
 Go to your favorite browser and enter the url: http://localhost:9000/servertime  
 Go to your favorite browser and enter the url: http://localhost:9000/random  
+
+### Chapter 06 - MultiRoute GorillaMux WebServer 
+```
+cd server  
+go run main.go  
+```
+Go to your favorite browser and enter the url: http://localhost:9000/capital/India  
+Go to your favorite browser and enter the url: http://localhost:9000/capital/USA  
+Go to your favorite browser and enter the url: http://localhost:9000/capitals/India  
+Go to your favorite browser and enter the url: http://localhost:9000/servertime  
+Go to your favorite browser and enter the url: http://localhost:9000/random  
+Go to your favorite browser and enter the url: http://localhost:9000/users/students/120  
