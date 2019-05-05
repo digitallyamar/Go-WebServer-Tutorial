@@ -34,3 +34,14 @@ Go to your favorite browser and enter the url: http://localhost:9000/capital/Ind
 Go to your favorite browser and enter the url: http://localhost:9000/capital/USA  
 Go to your favorite browser and enter the url: http://localhost:9000/capitals/India  
 Go to your favorite browser and enter the url: http://localhost:9000/servertime  
+
+### Chapter 05 - MultiRoute ServeMux WebServer 
+```
+cd server  
+go run main.go  
+```
+Go to your favorite browser and enter the url: http://localhost:9000/capital/India  
+Go to your favorite browser and enter the url: http://localhost:9000/capital/USA  
+Go to your favorite browser and enter the url: http://localhost:9000/capitals/India  
+Go to your favorite browser and enter the url: http://localhost:9000/servertime  
+Go to your favorite browser and enter the url: http://localhost:9000/random  
