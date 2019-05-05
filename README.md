@@ -24,3 +24,13 @@ go run main.go
 Go to your favorite browser and enter the url: http://localhost:9000/capital/India  
 Go to your favorite browser and enter the url: http://localhost:9000/capital/USA  
 Go to your favorite browser and enter the url: http://localhost:9000/capitals/India  
+
+### Chapter 04 - Basic Routes Web Server
+```
+cd server  
+go run main.go  
+```
+Go to your favorite browser and enter the url: http://localhost:9000/capital/India  
+Go to your favorite browser and enter the url: http://localhost:9000/capital/USA  
+Go to your favorite browser and enter the url: http://localhost:9000/capitals/India  
+Go to your favorite browser and enter the url: http://localhost:9000/servertime  
