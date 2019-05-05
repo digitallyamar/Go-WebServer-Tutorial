@@ -9,7 +9,7 @@ go run main.go
 ```
 Go to your favorite browser and enter the url: http://localhost:9000
 
-### Chapter 02 - REST GET WebServer
+### Chapter 02 - REST GET Web Server
 ```
 cd server  
 go run main.go  
